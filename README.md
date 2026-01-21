@@ -1,8 +1,8 @@
-## Vacation Rental Platform
+# Vacation Rental Platform
 
 Full-stack web application for listing, searching, and booking vacation rentals, built with the MERN stack (MongoDB, Express.js, React, Node.js) following MVC architecture
 
-# Features
+## Features
 
 - User authentication and authorization with JWT or similar mechanisms.
 - Property listings with images, descriptions, pricing, and availability calendars.
@@ -10,7 +10,7 @@ Full-stack web application for listing, searching, and booking vacation rentals,
 - Booking system with reservation management and payment integration.
 - User dashboards for hosts (manage listings) and guests (view bookings).
 
-# Folder structure
+## Folder structure
 > Organized in MVC pattern with clear separation of concerns.
 
 ```bash
@@ -25,14 +25,14 @@ Full-stack web application for listing, searching, and booking vacation rentals,
 └── config.js        # Configuration
 ```
 
-# Tech Stack
+## Tech Stack
 
 - MongoDB: NoSQL database for properties, users, and bookings.
 - Express.js: Backend framework with MVC routing.
 - React: Dynamic frontend UI.
 - Node.js: Runtime environment
 
-# Installation steps
+## Installation steps
 > Backend typically runs on http://localhost:5000 and frontend on http://localhost:3000.
 
 ```bash
